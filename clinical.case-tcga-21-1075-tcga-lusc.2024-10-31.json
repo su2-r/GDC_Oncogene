@@ -1,0 +1,78 @@
+[{
+  "exposures": [
+    {
+      "cigarettes_per_day": 4.054794520547945, 
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T19:29:20.236292-05:00", 
+      "exposure_id": "c96f2607-6052-5cac-8286-e13496c7ebf3", 
+      "submitter_id": "TCGA-21-1075_exposure", 
+      "state": "released", 
+      "pack_years_smoked": 74.0
+    }
+  ], 
+  "case_id": "fde60f9f-5cff-405e-b0f6-e193195ebd53", 
+  "project": {
+    "project_id": "TCGA-LUSC"
+  }, 
+  "submitter_id": "TCGA-21-1075", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IIB", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T19:29:20.236292-05:00", 
+          "submitter_id": "TCGA-21-1075_treatment_1", 
+          "treatment_id": "22e05faf-a05c-551f-92ab-0f8c352ea67e", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T12:04:18.079846-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T19:29:20.236292-05:00", 
+          "submitter_id": "TCGA-21-1075_treatment", 
+          "treatment_id": "5009b48a-b84d-5db6-9f08-f05974ee633c", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Lower lobe, lung", 
+      "days_to_last_follow_up": 2134.0, 
+      "age_at_diagnosis": 21093, 
+      "primary_diagnosis": "Squamous cell carcinoma, NOS", 
+      "updated_datetime": "2023-10-06T12:22:59.118523-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2002, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_pathologic_t": "T2", 
+      "morphology": "8070/3", 
+      "ajcc_pathologic_n": "N1", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-21-1075_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "102af613-2a3b-51d3-92cd-b31911d6a350", 
+      "icd_10_code": "C34.3", 
+      "site_of_resection_or_biopsy": "Lower lobe, lung", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "e31cc5a5-69b0-501e-a272-1ec20c1657c9", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T19:29:20.236292-05:00", 
+    "age_at_index": 57, 
+    "submitter_id": "TCGA-21-1075_demographic", 
+    "days_to_birth": -21093, 
+    "state": "released", 
+    "year_of_birth": 1945
+  }
+}]
